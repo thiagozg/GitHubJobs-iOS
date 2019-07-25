@@ -1,0 +1,29 @@
+PODS:
+  - lottie-ios (3.1.2)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+  - SkyFloatingLabelTextField (3.7.0)
+
+DEPENDENCIES:
+  - lottie-ios
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SkyFloatingLabelTextField (~> 3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - lottie-ios
+    - RxCocoa
+    - RxSwift
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  lottie-ios: 49cd85b1f24f61a7708ad7ec76a523ab2d0e3100
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SkyFloatingLabelTextField: 4b46db0ab1ccde0919cded29c656e6b4805eda04
+
+PODFILE CHECKSUM: 0a2ad8d10ba8a10ccc640f0922fc637aa2d8206c
+
+COCOAPODS: 1.6.1
